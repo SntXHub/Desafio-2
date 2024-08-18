@@ -69,3 +69,6 @@ const msg = `¡Eres de ${ciudad}!`;
 alert(msg);
 
 Prueba los códigos anteriores e intenta adaptarlos a tu programa.
+
+Jose Gonzalez
+Instructor Front-End en Alura Latam
